@@ -11,12 +11,13 @@ Circuit Simulation:
 http://123d.circuits.io/
 
 Datasheets
-MSP430 - http://www.ti.com/lit/ds/symlink/msp430f5529.pdf
+Sweeper servo - http://www.logingel.com/Files/Write/Files/190113/sm_s2309s_datasheet_en.pdf?dt=140221102321
 L293D H-bridge - http://www.ti.com/lit/ds/symlink/l293d.pdf
-Parallax Servo - http://www.parallax.com/sites/default/files/downloads/900-00005-Standard-Servo-Product-Documentation-v2.2.pdf
-Break-beam sensor - http://www.sharpsma.com/webfm_send/1554
-NAND - http://www.nxp.com/documents/data_sheet/74HC_HCT00.pdf
+Arm servo - https://www.pololu.com/file/0J730/HD-6001HB.pdf
+Photo-resistor - http://arduino.cc/documents/datasheets/LDR-VT90N2.pdf
 IR module - https://www.fairchildsemi.com/datasheets/QR/QRD1114.pdf
-Arduino servo - http://www.servodatabase.com/servo/springrc/sm-s2309s
-Motor - http://www.zhengkemotor.com/product/product20.html
+DC Motor - http://www.zhengkemotor.com/product/product20.html
 Color sensor - http://www.ti.com/lit/ds/symlink/opt101.pdf
+Microswitch - https://www.components.omron.com/components/web/pdflib.nsf/0/FE0F8E8EEB5D725485257201007DD573/$file/V_1110.pdf
+Battery - http://ww2.duracell.com/media/en-US/pdf/gtcl/Product_Data_Sheet/NA_DATASHEETS/MN1500_US_CT.pdf
+Arduino mega - http://arduino.cc/en/Main/arduinoBoardMega2560
